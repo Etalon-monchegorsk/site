@@ -733,6 +733,19 @@ footer p {
 .prais__item_violet a {
     color: violet;
 }
+.prais__item_orange_light .name {
+    background-color: rgb(247, 206, 91);
+
+}
+.prais__item_orange_light {
+    background-color: rgb(247, 206, 91);
+}
+.prais__item_orange_light li {
+    border-color: rgb(210, 154, 0);
+}
+.prais__item_orange_light a {
+    color: rgb(247, 206, 91);
+}
 .prais__item .empty {
     flex-grow: 1;
     font-size: 50px;
